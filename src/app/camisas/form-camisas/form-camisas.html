@@ -1,0 +1,44 @@
+<div class="container">
+
+  <h2>{{ id ? 'Editar Camisa' : 'Nova Camisa' }}</h2>
+
+  <form [formGroup]="form" (ngSubmit)="onSubmit()" class="form-container">
+
+    <mat-form-field appearance="outline" class="full-width">
+      <mat-label>Nome do Modelo</mat-label>
+      <input matInput formControlName="nome" placeholder="Ex: T-shirt Básica">
+    </mat-form-field>
+
+    <div class="row">
+      <mat-form-field appearance="outline" class="half-width">
+        <mat-label>Categoria</mat-label>
+        <input matInput formControlName="categoria" placeholder="Ex: Casual, Sport">
+      </mat-form-field>
+
+      <mat-form-field appearance="outline" class="half-width">
+        <mat-label>Preço (R$)</mat-label>
+        <input matInput type="number" formControlName="preco">
+      </mat-form-field>
+    </div>
+
+    <mat-form-field appearance="outline" class="full-width">
+      <mat-label>URL da Imagem</mat-label>
+      <input matInput formControlName="imagem" placeholder="https://...">
+    </mat-form-field>
+
+    <mat-form-field appearance="outline" class="full-width">
+      <mat-label>Descrição</mat-label>
+      <textarea matInput formControlName="descricao" rows="3"></textarea>
+    </mat-form-field>
+
+    <div class="actions">
+      <button mat-raised-button color="primary" type="submit" [disabled]="form.invalid">
+        Salvar
+      </button>
+      <button mat-button type="button" (click)="onCancel()">
+        Cancelar
+      </button>
+    </div>
+
+  </form>
+</div>

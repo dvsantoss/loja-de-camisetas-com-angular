@@ -1,0 +1,92 @@
+{
+  "camisas": [
+    {
+      "nome": "Tee Chrome Freddy Black and White Teste",
+      "categoria": "Streetwear",
+      "preco": 89.9,
+      "descricao": "Camiseta preta com estampa Chrome Freddy, 100% algodão.",
+      "imagem": "https://cdn.shopify.com/s/files/1/0647/7574/9838/files/Tee_Chrome_Freddy_Black.webp?v=1761242605&width=800&height=800&crop=center",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "nome": "Tee Dalmatian White",
+      "descricao": "Camiseta branca clássica com estampa Dálmata minimalista.",
+      "preco": 79.9,
+      "categoria": "Casual",
+      "imagem": "https://cdn.shopify.com/s/files/1/0647/7574/9838/files/Tee_Dalmation_White.webp?v=1761242599&width=800&height=800&crop=center"
+    },
+    {
+      "id": "4",
+      "nome": "Tee Furniture White",
+      "descricao": "Camiseta branca com arte gráfica nas costas, corte oversized.",
+      "preco": 95,
+      "categoria": "Casual",
+      "imagem": "https://cdn.shopify.com/s/files/1/0647/7574/9838/files/Tee_Furniture_White_Back.webp?v=1761339987&width=800&height=800&crop=center"
+    },
+    {
+      "id": "5",
+      "nome": "Tee Shei Olive Green",
+      "descricao": "Camiseta tom verde oliva, estampa Shei nas costas.",
+      "preco": 89.9,
+      "categoria": "Streetwear",
+      "imagem": "https://cdn.shopify.com/s/files/1/0647/7574/9838/files/Tee_Shei_OliveGreen_Back.webp?v=1761242607&width=800&height=800&crop=center"
+    },
+    {
+      "id": "6",
+      "nome": "Baby Tee Shei Black",
+      "descricao": "Baby look preta ajustada ao corpo, estilo Shei.",
+      "preco": 69.9,
+      "categoria": "Baby Tee",
+      "imagem": "https://cdn.shopify.com/s/files/1/0647/7574/9838/files/Baby_Tee_Shei_Black.webp?v=1761242603&width=800&height=800&crop=center"
+    },
+    {
+      "id": "7",
+      "nome": "Tee Lift Brown",
+      "descricao": "Camiseta marrom terra com estampa Lift frontal.",
+      "preco": 85,
+      "categoria": "Casual",
+      "imagem": "https://cdn.shopify.com/s/files/1/0647/7574/9838/files/Tee_Lift_Brown.webp?v=1761242602&width=800&height=800&crop=center"
+    },
+    {
+      "id": "8",
+      "nome": "Tee Metro Midnight Blue",
+      "descricao": "Azul meia-noite profundo com estampa Metro nas costas.",
+      "preco": 92.5,
+      "categoria": "Urban",
+      "imagem": "https://cdn.shopify.com/s/files/1/0647/7574/9838/files/Tee_Metro_MidnightBlue_Back.webp?v=1761310606&width=800&height=800&crop=center"
+    },
+    {
+      "id": "9",
+      "nome": "Tee QC High You Ain’t Shi Black",
+      "descricao": "Edição especial QC High com tipografia bold em preto.",
+      "preco": 110,
+      "categoria": "Statement",
+      "imagem": "https://cdn.shopify.com/s/files/1/0647/7574/9838/files/Tee_QC_HIGH_You_Aint_Shi_Black.webp?v=1761244582&width=800&height=800&crop=center"
+    },
+    {
+      "id": "10",
+      "nome": "Tee QC High Overview Blue",
+      "descricao": "Camiseta azul vibrante da coleção QC High Overview.",
+      "preco": 110,
+      "categoria": "Statement",
+      "imagem": "https://cdn.shopify.com/s/files/1/0647/7574/9838/files/Tee_QC_HIGH_Overview_Blue.webp?v=1761244583&width=1000&height=1000&crop=center"
+    },
+    {
+      "id": "11",
+      "nome": "Tee Heroes Brown",
+      "descricao": "Estampa Heroes em tom marrom vintage desbotado.",
+      "preco": 98,
+      "categoria": "Vintage",
+      "imagem": "https://cdn.shopify.com/s/files/1/0647/7574/9838/files/Tee_Heroes_Brown.jpg?v=1762034818&width=800&height=800&crop=center"
+    },
+    {
+      "nome": "Camisa de teste",
+      "categoria": "Sport",
+      "preco": 50,
+      "descricao": "Camisa de teste pro video agora editando ela",
+      "imagem": "",
+      "id": "b891"
+    }
+  ]
+}
