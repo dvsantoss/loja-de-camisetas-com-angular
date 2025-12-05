@@ -131,11 +131,20 @@ aplicarFiltro(evento: Event) {
 
 ## 📸 Cenários de Teste & Screenshots
 
-- **Tela Inicial:** `screenshots/inicio.png`
-- **Tela do Formulário (criar/editar):** `screenshots/formulario.png`
-- **Validação de Campos Obrigatórios:** `screenshots/validacao-formulario.png`
-- **Modal de Confirmação de Exclusão:** `screenshots/confirmacao-exclusao.png`
-- **Pesquisa aplicada:** `screenshots/pesquisa.png`
+## **Tela Inicial:**
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/73f7730b-8b05-4ca7-9890-953ab9276df9" />
+
+## **Tela do Formulário (criar/editar):**
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/d6fd4dee-4f1b-4aad-8da2-f2877a2e206e" />
+
+## **Validação de Campos Obrigatórios:**
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/c9a6129e-0869-46ff-b51d-05a26bd5bfea" />
+
+## **Modal de Confirmação de Exclusão:**
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/989c3444-f3c4-4d8b-aa0d-78d271bf20d9" />
+
+## **Pesquisa aplicada:**
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/2cbc8bb1-d7bd-4e1c-a4f5-e0ddb148da41" />
 
 ## 📝 Observações sobre Angular 21
 
